@@ -1,8 +1,8 @@
 # solar-powered-iron-press
 A sustainable solar-powered ironing system using Fresnel lens-based thermal heating and oil circulation mechanism.
-# Solar Powered Iron Press System ☀️👕
+# Solar Powered Iron Press System 
 
-** Overview
+## Overview
 
 This project presents a conceptual design of a battery-free solar-powered ironing system developed using thermal concentration and oil circulation mechanisms. The system aims to provide an eco-friendly and cost-effective ironing solution for off-grid and rural applications.
 
